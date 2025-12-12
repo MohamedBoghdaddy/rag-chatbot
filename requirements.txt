@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pdfplumber
+python-docx
+pandas
+numpy
+faiss-cpu
+google-generativeai
+
+torch
+sentence-transformers==2.6.1
+transformers==4.41.2
